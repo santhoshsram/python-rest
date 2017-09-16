@@ -1,0 +1,5 @@
+Flask==0.12.2
+flask-restplus==0.10.1
+gunicorn==19.7.1
+requests==2.17.3
+pyyaml==3.12
